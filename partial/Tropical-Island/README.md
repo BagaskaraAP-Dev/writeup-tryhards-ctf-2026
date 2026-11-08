@@ -3,6 +3,8 @@
 | Parameter | Keterangan |
 | --- | --- |
 | Soal | Tropical Island |
+| Tim | Tim Ruy |
+| Penulis / Analis | Mooncrust |
 | Kategori | Cryptography |
 | Target Layanan | `109.123.232.54:4003` (TCP) |
 | File Soal | `chall.py`, `tropical.py` |

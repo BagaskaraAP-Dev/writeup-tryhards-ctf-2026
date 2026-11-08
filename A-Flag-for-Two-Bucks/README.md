@@ -3,6 +3,8 @@
 | Parameter | Keterangan |
 | --- | --- |
 | Soal | A Flag for Two Bucks |
+| Tim | Tim Ruy |
+| Solver / Penulis | Mooncrust |
 | Kategori | Reverse Engineering |
 | File Soal | `a-flag-for-two-bucks.zip` |
 | Binary | `aflagfortwobucks` (ELF 64-bit x86-64, stripped) |

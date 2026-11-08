@@ -3,6 +3,8 @@
 | Parameter | Keterangan |
 | --- | --- |
 | Soal | Kept Inside |
+| Tim | Tim Ruy |
+| Solver / Penulis | Mooncrust |
 | Kategori | Forensics / Network Forensics |
 | File Soal | `kept-inside.zip` |
 | Capture File | `keptinside.pcap` |

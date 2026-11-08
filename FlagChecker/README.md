@@ -3,6 +3,8 @@
 | Parameter | Keterangan |
 | --- | --- |
 | Soal | FlagChecker |
+| Tim | Tim Ruy |
+| Solver / Penulis | Mooncrust |
 | Kategori | Reverse Engineering |
 | File Soal | `flagchecker.zip` |
 | Binary | `FlagChecker.elf` (ELF 64-bit, statically linked, UPX packed) |

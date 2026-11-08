@@ -1,10 +1,10 @@
-# Writeup TryHards CTF
+# Writeup TryHards CTF — Tim Ruy
 
-Repositori ini memuat dokumentasi penyelesaian (writeup) challenge Capture The Flag (CTF) dengan format flag resmi `TryHards{...}`.
+Repositori ini memuat dokumentasi penyelesaian (*writeup*) challenge Capture The Flag (CTF) dengan format flag resmi `TryHards{...}` yang dikerjakan oleh **Tim Ruy**.
 
-Arsip soal menggunakan password: `tryhards`
-
-Penulis: Bagaskara Amukti Palapa (Universitas Bina Darma)
+- **Tim:** Tim Ruy
+- **Pencipta / Penulis:** Mooncrust ([Bagaskara Amukti Palapa](https://github.com/BagaskaraAP-Dev))
+- **Password Arsip Soal:** `tryhards`
 
 ---
 

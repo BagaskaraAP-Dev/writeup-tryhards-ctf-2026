@@ -3,6 +3,8 @@
 | Parameter | Keterangan |
 | --- | --- |
 | Soal | Will Call |
+| Tim | Tim Ruy |
+| Penulis / Analis | Mooncrust |
 | Kategori | Cryptography / ECDSA |
 | Target Layanan | `109.123.232.54:1344` (TCP) |
 | File Soal | `will-call.zip` |

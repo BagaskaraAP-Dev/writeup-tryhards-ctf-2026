@@ -3,6 +3,8 @@
 | Parameter | Keterangan |
 | --- | --- |
 | Soal | lotu5 |
+| Tim | Tim Ruy |
+| Solver / Penulis | Mooncrust |
 | Kategori | Cryptography / Video Steganography |
 | Poin | 147 |
 | File Soal | `lotu5.zip` |
