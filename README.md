@@ -1,4 +1,4 @@
-# Writeup TryHards CTF — Tim Ruy
+# Writeup TryHards CTF: Tim Ruy
 
 Repositori ini memuat dokumentasi penyelesaian (*writeup*) challenge Capture The Flag (CTF) dengan format flag resmi `TryHards{...}` yang dikerjakan oleh **Tim Ruy**.
 
